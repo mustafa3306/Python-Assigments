@@ -1,2 +1,2 @@
 # Python-Assigments
-i will store my python assignments
+i will store my basic python assignments
